@@ -36,9 +36,13 @@ namespace ProyectoBD1.Clases
                 {
                     if (dt.Rows[0][3].ToString() == "Administrador") {
                         MessageBox.Show("Bienvenido Administrador");
+                        MenuAdmin admin1 = new MenuAdmin();
+                        admin1.Show();
                     }
                     else if (dt.Rows[0][3].ToString() == "Cajero") {
                         MessageBox.Show("Bienvenido Cajero");
+                        MenuCajero cajero1 = new MenuCajero();
+                        cajero1.Show();
                     }
                     
                 }
@@ -62,6 +66,7 @@ namespace ProyectoBD1.Clases
         private void btnIniciarSesion_Click(object sender, EventArgs e)
         {
             login(lbSucursal.Text , txtNombre.Text, txtcontraseña.Text);
+
         }
     }
 }

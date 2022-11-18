@@ -8,3 +8,15 @@ c:\users\vm_9_\documents\visual studio 2015\Projects\ProyectoBD1\ProyectoBD1\obj
 c:\users\vm_9_\documents\visual studio 2015\Projects\ProyectoBD1\ProyectoBD1\obj\Debug\ProyectoBD1.exe
 c:\users\vm_9_\documents\visual studio 2015\Projects\ProyectoBD1\ProyectoBD1\obj\Debug\ProyectoBD1.pdb
 c:\users\vm_9_\documents\visual studio 2015\Projects\ProyectoBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.Form2.resources
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\bin\Debug\ProyectoBD1.exe.config
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.exe
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.pdb
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\bin\Debug\ProyectoBD1.exe
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\bin\Debug\ProyectoBD1.pdb
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.csprojResolveAssemblyReference.cache
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.Form2.resources
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Form1.resources
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Properties.Resources.resources
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.csproj.GenerateResource.Cache
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.MenuAdmin.resources
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.MenuCajero.resources
