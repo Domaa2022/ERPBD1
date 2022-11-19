@@ -21,3 +21,16 @@ C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\P
 C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.MenuAdmin.resources
 C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.MenuCajero.resources
 C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.Personal.resources
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\bin\Debug\ProyectoBD1.exe.config
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.exe
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.pdb
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\bin\Debug\ProyectoBD1.exe
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\bin\Debug\ProyectoBD1.pdb
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.csprojResolveAssemblyReference.cache
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.Form2.resources
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.MenuAdmin.resources
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.MenuCajero.resources
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.Personal.resources
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Form1.resources
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Properties.Resources.resources
+C:\Users\vm_9_\Desktop\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.csproj.GenerateResource.Cache
