@@ -21,3 +21,7 @@ C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\P
 C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.MenuAdmin.resources
 C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.MenuCajero.resources
 C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.Personal.resources
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.Inventario.resources
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.Clientes.resources
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.Facturación.resources
+C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.Proveedores.resources

@@ -43,13 +43,21 @@ namespace ProyectoBD1
 
         private void btnSeleccionar_Click(object sender, EventArgs e)
         {
-            this.Hide();
+           // this.Hide();
             Form2 FormularioInicioSesion = new Form2();
             FormularioInicioSesion.lbSucursal.Text = cbxSucursales.Text;
             FormularioInicioSesion.Show();
             
             
             
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Está seguro que desea salir de la aplicación?", "Confirmar", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                this.Close();
+            }
         }
     }
 }

@@ -35,12 +35,12 @@ namespace ProyectoBD1.Clases
                 if(dt.Rows.Count == 1)
                 {
                     if (dt.Rows[0][3].ToString() == "Administrador") {
-                        MessageBox.Show("Bienvenido Administrador");
+                        MessageBox.Show("Bienvenido Administrador", "Acceso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         MenuAdmin admin1 = new MenuAdmin();
                         admin1.Show();
                     }
                     else if (dt.Rows[0][3].ToString() == "Cajero") {
-                        MessageBox.Show("Bienvenido Cajero");
+                        MessageBox.Show("Bienvenido Cajero", "Acceso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         MenuCajero cajero1 = new MenuCajero();
                         cajero1.Show();
                     }
@@ -48,7 +48,7 @@ namespace ProyectoBD1.Clases
                 }
                 else
                 {
-                    MessageBox.Show("Usuario o Contraseña Incorrecta");
+                    MessageBox.Show("Usuario o Contraseña Incorrecta", "Acceso", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
 
             }
@@ -66,6 +66,7 @@ namespace ProyectoBD1.Clases
         private void btnIniciarSesion_Click(object sender, EventArgs e)
         {
             login(lbSucursal.Text , txtNombre.Text, txtcontraseña.Text);
+            this.Close();
 
         }
     }
