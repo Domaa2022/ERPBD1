@@ -10,18 +10,11 @@ using System.Windows.Forms;
 
 namespace ProyectoBD1.Clases
 {
-    public partial class MenuAdmin : Form
+    public partial class Personal : Form
     {
-        public MenuAdmin()
+        public Personal()
         {
             InitializeComponent();
-        }
-
-        private void btnPersonal_Click(object sender, EventArgs e)
-        {
-            Personal p1 = new Personal();
-            p1.MdiParent = this;
-            p1.Show();
         }
     }
 }

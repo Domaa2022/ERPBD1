@@ -65,6 +65,12 @@
     <Compile Include="Clases\MenuCajero.Designer.cs">
       <DependentUpon>MenuCajero.cs</DependentUpon>
     </Compile>
+    <Compile Include="Clases\Personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clases\Personal.Designer.cs">
+      <DependentUpon>Personal.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,6 +87,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Clases\MenuCajero.resx">
       <DependentUpon>MenuCajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clases\Personal.resx">
+      <DependentUpon>Personal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
