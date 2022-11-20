@@ -41,3 +41,6 @@ C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\P
 C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.Facturación.resources
 C:\Users\joseh\OneDrive\Documentos\Clases Virtuales\BD1\Proyecto\ERPBD1\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.Clases.Proveedores.resources
 >>>>>>> developer
+C:\Users\vm_9_\Desktop\Nueva carpeta (2)\ERPBD1\ProyectoBD1\bin\Debug\ProyectoBD1.exe.config
+C:\Users\vm_9_\Desktop\Nueva carpeta (2)\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.exe
+C:\Users\vm_9_\Desktop\Nueva carpeta (2)\ERPBD1\ProyectoBD1\obj\Debug\ProyectoBD1.pdb
