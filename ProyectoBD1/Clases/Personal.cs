@@ -132,5 +132,10 @@ namespace ProyectoBD1.Clases
                 }
             }
         }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
