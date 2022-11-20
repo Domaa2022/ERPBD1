@@ -18,6 +18,7 @@ namespace ProyectoBD1.Clases
             InitializeComponent();
         }
 
+<<<<<<< HEAD
         public static DataTable listarEmpleados()
         {
             Conexion conexionbd = new Conexion();
@@ -137,5 +138,14 @@ namespace ProyectoBD1.Clases
         {
 
         }
+=======
+        private void label2_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Está seguro que desea cerrar la ventana Personal?", "Confirmar", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                this.Close();
+            }
+        }
+>>>>>>> developer
     }
 }

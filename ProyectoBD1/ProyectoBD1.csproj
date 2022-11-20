@@ -46,12 +46,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases\Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clases\Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Clases\Conexion.cs" />
+    <Compile Include="Clases\Facturación.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clases\Facturación.Designer.cs">
+      <DependentUpon>Facturación.cs</DependentUpon>
+    </Compile>
     <Compile Include="Clases\Form2.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Clases\Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clases\Inventario.Designer.cs">
+      <DependentUpon>Inventario.cs</DependentUpon>
     </Compile>
     <Compile Include="Clases\MenuAdmin.cs">
       <SubType>Form</SubType>
@@ -71,6 +89,12 @@
     <Compile Include="Clases\Personal.Designer.cs">
       <DependentUpon>Personal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Clases\Proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clases\Proveedores.Designer.cs">
+      <DependentUpon>Proveedores.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -79,8 +103,17 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Clases\Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clases\Facturación.resx">
+      <DependentUpon>Facturación.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Clases\Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clases\Inventario.resx">
+      <DependentUpon>Inventario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Clases\MenuAdmin.resx">
       <DependentUpon>MenuAdmin.cs</DependentUpon>
@@ -90,6 +123,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Clases\Personal.resx">
       <DependentUpon>Personal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clases\Proveedores.resx">
+      <DependentUpon>Proveedores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
